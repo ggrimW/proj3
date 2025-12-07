@@ -23,8 +23,3 @@
 ### Предварительные требования
 - Python 3.7 или выше
 
-### Установка и запуск
-1. Клонируйте репозиторий:
-```bash
-git clone https://github.com/ваш-username/personal-finance-manager.git
-cd personal-finance-manager
